@@ -16,14 +16,11 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://github.com/Tony-Meraki/Multi-Chatbot-Operator-Experiment.git
+git remote add origin https://github.com/Tony-Meraki/NinjaFruit_VR_Cyberpunk.git
 git branch -M main
 git push -uf origin main
 ```
 
-## Integrate with your tools
-
-- [ ] [Set up project integrations](http://xrlab-gitlab/controlhass/controlhass_assistance/-/settings/integrations)
 
 ## Collaborate with your team
 
